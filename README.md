@@ -21,11 +21,11 @@ Install dependencies:
 ```bash
 npm install
 
-Run the development server: 
+**Run the development server:**
 npm run dev
-Opern your browser and visit:
+**Open your browser and visit:**
 http://localhost:3000
 
-## Notes
+**Notes**
 This project is intended for practice and learning purposes
 
