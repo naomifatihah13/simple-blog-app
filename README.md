@@ -20,12 +20,12 @@ This project is created for learning purposes, focusing on routing, component st
 Install dependencies:
 ```bash
 npm install
-
-**Run the development server:**
+```
+Run the development server:
+```bash
 npm run dev
-**Open your browser and visit:**
-http://localhost:3000
+```
+Open http://localhost:3000 in your browser to see the result.
 
-**Notes**
-This project is intended for practice and learning purposes
-
+Notes: 
+This project is built for learning and challenge purposes.
